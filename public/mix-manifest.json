@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chunks/Layouts/App.js": "/js/chunks/Layouts/App.js?id=d9b1a773fddea0b3",
+    "/js/chunks/Layouts/Error.js": "/js/chunks/Layouts/Error.js?id=2c9316b60e73ca6a",
+    "/js/chunks/Pages/User/Index.js": "/js/chunks/Pages/User/Index.js?id=0bcfa281adcf2ec2",
+    "/js/chunks/Pages/User/Action.js": "/js/chunks/Pages/User/Action.js?id=7fb57fc9fb11edcb",
+    "/js/chunks/Pages/User/Show.js": "/js/chunks/Pages/User/Show.js?id=70afdab7844edd79",
+    "/js/chunks/Pages/Errors/Index.js": "/js/chunks/Pages/Errors/Index.js?id=af3b2226950b79ff",
+    "/js/chunks/Pages/Errors/404.js": "/js/chunks/Pages/Errors/404.js?id=f9f321320821799a",
+    "/css/app.css": "/css/app.css",
+    "/css/plugins.css": "/css/plugins.css",
+    "/.htaccess": "/.htaccess",
+    "/index.php": "/index.php",
+    "/robots.txt": "/robots.txt",
+    "/web.config": "/web.config"
+}
